@@ -54,7 +54,7 @@ def submit_form():
     
     context = {
         'name': name,
-
+        
     }
 
     return render_template('form_result.html', **context)
