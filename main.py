@@ -1,5 +1,5 @@
 # Import 
-# TO JEST GALAZ MAIN
+# TO JEST GALAZ FORM
 from flask import Flask, render_template, request
 
 
